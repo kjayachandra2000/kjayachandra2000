@@ -6,7 +6,7 @@
 ## I'm a Husband, Father, Developer, and Tester!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Make Continuous Testing and Continuous Delivery reality
+- 🥅 2023 Goals: Make Continuous Testing and Continuous Delivery reality
 - ⚡ Fun fact: I love to travel and binge watch 📺 
 - ❓ Ask me anything 💬
 
